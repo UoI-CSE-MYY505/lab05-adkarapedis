@@ -3,6 +3,8 @@
 #  Verifies the correctness of some aspects of a 5-stage pipelined RISC-V implementation
 # ----------------------------------------------------------------------------------------
 
+
+
 .data
 storage:
     .word 1
